@@ -1,0 +1,6 @@
+path: '/home/ai-132/job/seg-data'
+train: '/home/ai-132/job/seg-data/train' 
+val: '/home/ai-132/job/seg-data/valid'  
+
+nc: 1
+names: ['crack']
